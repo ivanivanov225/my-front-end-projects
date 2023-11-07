@@ -1,5 +1,4 @@
 "use strict";
-
 const video = new Video({
     wrapperID: "video-wrapper",
     videoSrc: "static/video.mp4",

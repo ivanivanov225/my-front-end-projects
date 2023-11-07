@@ -277,6 +277,7 @@ Video.prototype.calcProgress = function () {
  * @param seconds
  * @returns {string}
  */
+
 function secToTimeStr(seconds) {
 
     let timeInHour = Math.floor(seconds / 3600);
