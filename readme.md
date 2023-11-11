@@ -4,6 +4,7 @@ Welcome to the Practical Front-End Projects repository! This collection offers a
 
 ### Projects
 
+
 There are 10 developed projects that you can review now.
   - [Custom Video Player](#custom-video-player)
   - [Lovely Movies](#lovely-movies)
